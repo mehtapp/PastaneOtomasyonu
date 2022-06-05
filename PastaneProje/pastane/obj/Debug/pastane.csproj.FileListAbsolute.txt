@@ -1,0 +1,63 @@
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\bin\Debug\pastane.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\bin\Debug\pastane.exe
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\bin\Debug\pastane.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.Form1.resources
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.Urunler.resources
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.exe
+C:\Users\STUDENT2\Desktop\Mehtap\pastane\pastane\obj\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\bin\Debug\pastane.exe.config
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\bin\Debug\pastane.exe
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\bin\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Form1.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Properties.Resources.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Urunler.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.exe
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Raporlar.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Saticilar.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.KullaniciGiris.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Musteriler.resources
+C:\Users\hvdem\Desktop\16.04.2022\2PastaneProje\pastane\obj\Debug\pastane.Siparisler.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\bin\Debug\pastane.exe.config
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\bin\Debug\pastane.exe
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\bin\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.KullaniciGiris.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Saticilar.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Siparisler.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.Urunler.resources
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.exe
+C:\Users\hvdem\Desktop\Projeler\2PastaneProje\pastane\obj\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\bin\Debug\pastane.exe.config
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\bin\Debug\pastane.exe
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\bin\Debug\pastane.pdb
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.KullaniciGiris.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Saticilar.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Siparisler.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.Urunler.resources
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.exe
+C:\Users\hvdem\Desktop\Projeler\2 PastaneProje\pastane\obj\Debug\pastane.pdb
